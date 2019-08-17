@@ -26,5 +26,4 @@ public class Solution {
         root.left = getMirror(pRoot.right);
         return root;
     }
-  
 }
