@@ -1,6 +1,6 @@
 public class Solution {
     public void Mirror(TreeNode root) {
-        TreeNode temp;
+        TreeNode temp;//定义一个中间节点
         if(root!=null)
         {
         temp=root.left;
